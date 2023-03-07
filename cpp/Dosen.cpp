@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
+// dosen adalah sivitas akademik
 
 class Dosen : public SivitasAkademik
 {
