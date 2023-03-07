@@ -1,5 +1,4 @@
-// from Dosen import Dosen
-// from Mahasiswa import Mahasiswa
+// course memiliki list objek dosen dan mahasiswa
 
 class Course
 {
