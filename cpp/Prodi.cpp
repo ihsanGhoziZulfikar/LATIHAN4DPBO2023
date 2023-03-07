@@ -1,9 +1,5 @@
+// prodi memiliki list objek course, dosen dan mahasiswa
 
-// #include "Human.cpp"
-// #include "SivitasAkademik.cpp"
-// #include "Mahasiswa.cpp"
-// #include "Dosen.cpp"
-// #include "Course.cpp"
 class Prodi{
 	private:
 		string nama_prodi;
