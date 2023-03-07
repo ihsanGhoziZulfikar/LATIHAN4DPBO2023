@@ -1,3 +1,5 @@
+// mahasiswa adalah sivitas akademik
+
 class Mahasiswa : public SivitasAkademik{
 	private:
 		string nim;
